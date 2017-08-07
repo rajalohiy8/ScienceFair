@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Science Fair</string>
+    <string name="app_intro_skip">Skip</string>
+    <string name="title_activity_location">Map</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">See Later</string>
+    <string name="backdrop_title">Science Fair</string>
+    <string name="backdrop_subtitle">This season top 20 Models</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Register Now</string>
+    <string name="title_section3">Events</string>
+    <string name="title_section4">Top Models</string>
+    <string name="title_section5">Location </string>
+    <string name="title_section6">Contact</string>
+    <string name="title_section7">About</string>
+    <string name="title_activity_main">Science Fair</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

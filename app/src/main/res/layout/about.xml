@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="10dp"
+                android:text="WELCOME TO VIGYAN BHARTI 2017"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:background="#ffffff"
+                android:elevation="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="7dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="10dp"
+                android:paddingTop="5dp"
+                android:text="India faces critical challenges as a nation in its march towards a welfare state. Considering the nature of the challenges which are so unique, only rapid strides in the sector of science and technology, in resonance with India’s heritage can meet those challenges. In this context Vijnanabharati, a science movement with swadeshi spirit has a greater role to play."
+                android:textColor="#000000"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:typeface="monospace"
+                android:background="#ffffff"
+                android:elevation="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="7dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="10dp"
+                android:paddingTop="7dp"
+                android:typeface="serif"
+                android:text="Swadeshi Science Movement was started in Indian Institite of Science- (Bengaluru) by a few eminent scientists under the guidance of Prof. K I Vasu. This movement gradually gained momentum and emerged as an organization with national presence. In 1991(Oct 20-21) at the Nagpur meet, it was decided, to launch the Swadeshi Science Movement at all India Level and named it as Vijnanabharati. The foundation principle of VIBHA is made\n\n•	As a vibrant movement for the development of Swadeshi Sciences.\n\n•	As a dynamic Science Movement with a Swadeshi Spirit, interlinking traditional and modern sciences on the one hand, and natural and spiritual sciences on the other hand.\n\n•	As a Swadeshi Movement with modern sciences adapted to national needs.
+Vijnanabharati has units in 22 states across the country and contacts in 4 states. It is working in 11 different areas through autonomous institutions, independent organizations andalso as project entities.\n They are following--
+"
+                android:textColor="#000000"
+                android:textSize="15sp"
+                android:textStyle="italic"
+                android:background="#ffffff"
+                android:elevation="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="7dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="10dp"
+                android:paddingTop="7dp"
+                android:typeface="serif"
+                android:textColor="#000000"
+                android:textSize="15sp"
+                android:textStyle="italic"
+                android:background="#ffffff"
+                android:elevation="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:text="\n\n
+1.	World Ayurveda foundation.\n\n
+2.	Bharatiya Vigyan Sammelan- Samiti.\n\n
+3.	Global Indian Scientists and Technocrats Foundation.\n\n
+4.	Rashtriya Yuva vaigyanik manch.\n\n
+5.	National Ayurveda students and youth Association.\n\n
+6.	 Jnan Vijnan Pratibha Pareeksha.\n\n
+7.	Vishwa Veda- Vijnan sammelan.\n\n
+8.	Vigyan Prasar Bharati.\n\n
+9.	Energy Innovation and implementation Foundation.\n\n
+10.	Shakti.\n\n
+11.	International Institute of Waste management.\n\n
+
+"/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
